@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-//mongoose model
+//mongoose model for story
 
 const StorySchema = new mongoose.Schema({
   title: {
